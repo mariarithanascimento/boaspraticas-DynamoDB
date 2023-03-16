@@ -4,4 +4,4 @@ Criei esse depositório a fim de colocar em prática todos os conhecimentos obti
 
 ## Sumário
 
-- 🏦 [Alguns comandos usados]()
+- 🏦 [Alguns comandos usados](https://github.com/mariarithanascimento/boaspraticas-DynamoDB/tree/main/src)
